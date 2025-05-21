@@ -1,7 +1,7 @@
 # Correlation and regression for data analysis
-Developed By: Senthil Raj G
+Developed By: Vishal.C
 
-Register Number: 212224100054
+Register Number: 212224100062
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
